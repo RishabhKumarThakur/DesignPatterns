@@ -88,7 +88,7 @@ Example Use Cases:
 Lazy initialization
 Access control
 Remote proxies
---
+
 
 3. BEHAVIORAL PATTERNS
 
@@ -158,7 +158,6 @@ Example Use Cases:
 Algorithm framework
 Game development for defining game loops
 Workflow systems
------------
 11 Visitor
 Scenario: When you need to define a new operation without changing the classes of the elements on which it operates.
 Example Use Cases:
